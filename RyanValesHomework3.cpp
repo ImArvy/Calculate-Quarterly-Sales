@@ -1,6 +1,5 @@
 /*
 Written by : Ryan Vales
-Student ID : S00339723
 Written on : 6/30/21
 Assignment : RyanValesHomework3.cpp 
 */
